@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tefunamu
-- 👀 I’m interested in C, Linux, Python, and so on.
-- 🌱 I’m currently learning Linux, perl and Python.
+- 👀 I’m interested in C, OS, and so on.
+- 🌱 I’m currently learning Linux kernel and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
