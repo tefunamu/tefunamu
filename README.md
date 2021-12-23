@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tefunamu
+- 👋 Hi, I’m @chonan.takahiro
 - 👀 I’m interested in C, OS, and so on.
-- 🌱 I’m currently learning Linux kernel and Python.
+- 🌱 I’m currently learning TCP/IP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
