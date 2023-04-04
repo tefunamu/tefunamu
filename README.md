@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tefunamu
-- 👀 I’m interested in C, OS, and so on.
+- 👀 I’m interested in prompt engineering, deep learning, and so on.
 - 🌱 I’m currently learning TCP/IP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
