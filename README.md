@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tefunamu
-- 👀 I’m interested in prompt engineering, deep learning, socket communications, and so on.
+- 👀 I’m interested in prompt engineering, deep learning, wireless communications, and so on.
 - 🌱 I’m currently learning TCP/IP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
